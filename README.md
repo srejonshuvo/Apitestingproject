@@ -34,7 +34,7 @@
 ![Screenshot 2023-09-17 102428](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/04867a2a-2b9f-43bf-a1ac-607e4ab1823c)
 ![Screenshot 2023-09-17 102513](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/80383b73-dec0-4c91-8162-2f1754b2ee15)
 
-## 1. Specific Student information 
+## 3. Specific Student information 
 ### this api we  see student indormation
 ## Mehod using : GET
 ### The GET method is used to retrieve information from the given server using a given URI
@@ -43,5 +43,11 @@
 ![Screenshot 2023-09-17 103006](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/d1aa24ce-26c4-4086-800a-4c4063f2c2b2)
 ![Screenshot 2023-09-17 103040](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/ca4aefc3-1089-4030-b6da-37b4373413ea)
 
-
-
+## 4. Create Technical Skills  
+### This API we creating Create Technical Skills
+## Mehod using : POST
+### POST is used to send data to a server to create/update a resource
+# Some show case
+![Screenshot 2023-09-17 103525](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/4d2be838-a4a5-4f0d-aaa8-b2c711a801a4)
+![Screenshot 2023-09-17 103546](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/4c422dfc-17d7-4258-b17a-c0325736f36a)
+![Screenshot 2023-09-17 103639](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/cb11788a-9e75-469b-8e2e-003d6ba3a310)
