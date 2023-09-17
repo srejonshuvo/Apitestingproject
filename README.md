@@ -17,11 +17,19 @@
 ### 5.DELETE
 
 # More info this project
-## 1. GET Student information 
-### This API we see student information like Firstname, Lastname etc
+## 1. Student information 
+### The GET method is used to retrieve information from the given server using a given URI
 ## Mehod using : GET
 ### We use this method only to view any information from the API
 # Some show case 
 ![Screenshot 2023-09-17 012335](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/f21f6ac8-2f54-440e-be2f-4236c96b2b85)
 ![Screenshot 2023-09-17 012353](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/6973f754-fb5f-46f0-8361-59ae12148074)
 ![Screenshot 2023-09-17 012408](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/ab9fc8bf-c355-4786-9d53-4f2659f34994)
+
+## 2. Student ID Create  
+### This API we creating student id
+## Mehod using : POST
+### POST is used to send data to a server to create/update a resource
+# Some show case
+![Screenshot 2023-09-17 102428](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/04867a2a-2b9f-43bf-a1ac-607e4ab1823c)
+![Screenshot 2023-09-17 102513](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/80383b73-dec0-4c91-8162-2f1754b2ee15)
