@@ -18,9 +18,9 @@
 
 # More info this project
 ## 1. Student information 
-### The GET method is used to retrieve information from the given server using a given URI
+### this api we  see student indormation
 ## Mehod using : GET
-### We use this method only to view any information from the API
+### The GET method is used to retrieve information from the given server using a given URI
 # Some show case 
 ![Screenshot 2023-09-17 012335](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/f21f6ac8-2f54-440e-be2f-4236c96b2b85)
 ![Screenshot 2023-09-17 012353](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/6973f754-fb5f-46f0-8361-59ae12148074)
@@ -33,3 +33,15 @@
 # Some show case
 ![Screenshot 2023-09-17 102428](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/04867a2a-2b9f-43bf-a1ac-607e4ab1823c)
 ![Screenshot 2023-09-17 102513](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/80383b73-dec0-4c91-8162-2f1754b2ee15)
+
+## 1. Specific Student information 
+### this api we  see student indormation
+## Mehod using : GET
+### The GET method is used to retrieve information from the given server using a given URI
+# Some show case 
+![Screenshot 2023-09-17 102941](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/bda84dbf-69ea-4644-99b6-0f16cbcdd9bc)
+![Screenshot 2023-09-17 103006](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/d1aa24ce-26c4-4086-800a-4c4063f2c2b2)
+![Screenshot 2023-09-17 103040](https://github.com/srejonshuvo/Apitestingproject/assets/51881295/ca4aefc3-1089-4030-b6da-37b4373413ea)
+
+
+
